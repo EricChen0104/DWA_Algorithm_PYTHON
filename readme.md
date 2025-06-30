@@ -35,7 +35,7 @@ This project:
 - **Right-click** to add a new obstacle
 - Window will auto-close once robot reaches goal
 
-![demo](https://github.com/yourusername/dwa-python/assets/demo.gif)
+![https://github.com/yourusername/dwa-python/assets/demo.gif](https://github.com/EricChen0104/DWA_Algorithm_PYTHON/blob/master/assets/MOV%20to%20GIF%20Demo.gif)
 
 ---
 
